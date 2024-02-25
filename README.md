@@ -1,3 +1,3 @@
 # testiee
 
-this is my test repo - Srishti
+this is my test repo - Srishti Gupta
